@@ -11,7 +11,7 @@ h1{
     background: #071A77;/*linear-gradient (to right, color 1, cololr2)*/
     border: none;
     border-radius: 8px;
-    margin: 8px 24px;
+    /*margin: 8px 24px;*/
     box-shadow: 0 6px 20 px -8px rgba(0,0,0,0.5);
     cursor:pointer;
     transition: all 500ms ease;
