@@ -1,3 +1,22 @@
 h1{
     color: #071A77;
 }
+
+.donwload-btn{
+    padding 12px 24px;
+    font-size:16 px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #fff;
+    background: #071A77;/*linear gradient to right*/
+    border: none;
+    border-radius: 8px;
+    margin: 8px 24px;
+    box-shadow: 0 6px 20 px -8px rgba(0,0,0,0.5);
+    cursor:pointer;
+    transition: all 500ms ease;
+}
+
+.download-btn::hover{
+    transform: translateY(-4px);
+}
