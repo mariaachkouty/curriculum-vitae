@@ -1,5 +1,5 @@
 const donwloadBtn = document.querySelector(".download-btn");
 
-donwloadBtn.addEventListener("click", ()=>{
+downloadBtn.addEventListener("click", ()=>{
     window.print();
 });
