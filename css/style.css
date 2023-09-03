@@ -8,7 +8,7 @@ h1{
     text-transform: uppercase;
     font-weight: bold;
     color: #fff;
-    background: #071A77;/*linear gradient to right*/
+    background: #071A77;/*linear-gradient (to right, color 1, cololr2)*/
     border: none;
     border-radius: 8px;
     margin: 8px 24px;
