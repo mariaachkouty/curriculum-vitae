@@ -21,3 +21,7 @@ h1{
     transform: translateY(-4px);
     color:white;
 }
+
+body{
+    font: Arial;
+}
