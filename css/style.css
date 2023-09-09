@@ -6,6 +6,15 @@
 
 }
 
+.title{
+
+    width: 300px;
+}
+
+.details{
+    column-span: 2;
+}
+
 h1{
     color: #071A77;
 }
