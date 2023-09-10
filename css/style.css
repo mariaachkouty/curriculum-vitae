@@ -31,7 +31,7 @@ hr {
     border-color: black;
 }
 
-a{
+a, a:visited{
     color: #0000EE;
 }
 
