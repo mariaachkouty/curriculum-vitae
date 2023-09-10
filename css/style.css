@@ -24,6 +24,10 @@ h1{
     font-family: Impact,serif;
 }
 
+.organization{
+    font-style: italic;
+}
+
 .download-btn{
     padding 12px 24px;
     font-size:16 px;
