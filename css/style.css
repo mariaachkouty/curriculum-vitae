@@ -27,6 +27,7 @@ h1{
 hr {
     height: 0.25px;
     background-color: black;
+    border-color: black;
 }
 
 .organization{
