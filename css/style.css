@@ -31,6 +31,10 @@ hr {
     border-color: black;
 }
 
+a{
+    color: #0000EE;
+}
+
 .organization{
     font-style: italic;
     font-weight: bold;
