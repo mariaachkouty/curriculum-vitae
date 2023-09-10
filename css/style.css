@@ -25,7 +25,8 @@ h1{
 }
 
 .organization{
-    font-style: italic, bold;
+    font-style: italic;
+    font-weight: bold;
     padding: 0px;
     margin: 0px;
 }
