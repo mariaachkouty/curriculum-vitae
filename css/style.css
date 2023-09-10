@@ -25,8 +25,9 @@ h1{
 }
 
 .organization{
-    font-style: italic;
+    font-style: italic, bold;
     padding: 0px;
+    margin: 0px;
 }
 
 .download-btn{
