@@ -31,9 +31,11 @@ hr {
     border-color: black;
 }
 
-a, a:visited{
+a, a:visited, a:active{
     color: #0000EE;
 }
+
+a:hover { color: #551A8B; }
 
 .organization{
     font-style: italic;
