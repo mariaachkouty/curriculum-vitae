@@ -19,11 +19,9 @@
     column-span: 2;
 }
 
-h1,h2{
+h1{
     color: #071A77;
     /*font-family: Impact,serif;*/
-    padding: 0px;
-    margin: 0px;
 }
 
 hr {
