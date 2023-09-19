@@ -40,7 +40,7 @@ a:hover { color: #551A8B; }
 
 figcaption {
     font-size: .25px;
-    padding: 0.25px;
+    margin: 0px;
 }
 
 .organization{
