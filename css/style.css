@@ -22,7 +22,7 @@
 h1{
     color: #071A77;
     /*font-family: Impact,serif;*/
-    font-size: 38px;
+    /*font-size: 38px;*/
 }
 
 hr {
@@ -33,10 +33,10 @@ hr {
     border-collapse: collapse;
 }
 
-img{
+/*img{
     padding: 0px;
     margin: 0px;
-}
+}*/
 
 a, a:visited, a:active{
     color: #0000EE;
