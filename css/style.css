@@ -33,6 +33,11 @@ hr {
     border-collapse: collapse;
 }
 
+img{
+    padding: 0px;
+    margin: 0px;
+}
+
 a, a:visited, a:active{
     color: #0000EE;
 }
