@@ -19,7 +19,6 @@
 .title{
 
     width: 300px;
-    text-transform:uppercase;
 }
 
 .details{
@@ -28,6 +27,8 @@
 
 h1{
     color: #071A77;
+    /*
+    text-transform:uppercase;*/
     /*font-family: Impact,serif;*/
     /*font-size: 38px;*/
 }
