@@ -11,7 +11,9 @@
 }
 
 .resume{
-    max-width: 2480px;
+    /*max-width: 2480px;*/
+    width:50%;
+    margin-left:25%;
 }
 
 .title{
